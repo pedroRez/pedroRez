@@ -31,7 +31,12 @@ Considero-me autodidata, versátil e motivado a resolver problemas com tecnologi
 
 </div>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=pedroRez&theme=radical&date_format=j%20M%5B%20Y%5D" />
+ <p align="center">
+  
+![GitHub Streak](https://streak-stats.demolab.com?user=pedroRez&theme=radical&date_format=j%20M%5B%20Y%5D)
+
+</p>
+
 </div>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedroRez&theme=react-dark&area=true&hide_border=true" />
@@ -70,9 +75,23 @@ Considero-me autodidata, versátil e motivado a resolver problemas com tecnologi
 ---
 
 ## 📫 Contato
-- [LinkedIn](https://www.linkedin.com/in/pedro-rezende-82530135a)  
-- [GitHub](https://github.com/pedroRez)  
-- 📧 **pedro.rezp3@gmail.com**
+## Contacts
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pedro-rezende-82530135a" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:pedro.rezp3@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://instagram.com/SEU_USUARIO" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://wa.me/5531987957844" target="_blank">
+  <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
+
+</p>
 
 ---
 
