@@ -17,17 +17,25 @@ Autodidata, versátil e focado em resolver problemas com tecnologia.
 
 <div align="center">
 
-<!-- GitHub Stats -->
+<!-- Stats (título curto + line_height) -->
 <a href="https://github.com/pedroRez">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=pedroRez&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img
+    height="160"
+    src="https://github-readme-stats.vercel.app/api?username=pedroRez&show_icons=true&theme=radical&count_private=true&hide_title=true&line_height=24&cache_seconds=86400"
+  />
 </a>
 
-<!-- Top Languages (ajuste o hide se quiser) -->
+<!-- Top Languages (título curto também) -->
 <a href="https://github.com/pedroRez">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroRez&layout=compact&langs_count=8&theme=radical&hide_progress=false&hide=html,css" />
+  <img
+    height="160"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroRez&layout=compact&langs_count=8&theme=radical&hide_progress=false&hide=html,css&custom_title=Top%20Languages"
+  />
 </a>
 
 </div>
+
+
 
 ---
 ## 🛠️ Techs & Tools
@@ -41,10 +49,15 @@ Autodidata, versátil e focado em resolver problemas com tecnologia.
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff&style=for-the-badge)
 
 ### Bancos de Dados
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=fff&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=000&style=for-the-badge)
 ![.DAT](https://img.shields.io/badge/-DAT%20File-444444?style=for-the-badge)
+### Geoespacial
+![PostGIS](https://img.shields.io/badge/-PostGIS-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)
+![ArcGIS](https://img.shields.io/badge/-ArcGIS-2E7D32?style=for-the-badge)
+
 
 ### Frameworks & Bibliotecas
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
@@ -57,46 +70,51 @@ Autodidata, versátil e focado em resolver problemas com tecnologia.
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=fff&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
-![ArcGIS](https://img.shields.io/badge/-ArcGIS-2E7D32?style=for-the-badge)
 
 ---
 
 ## 🧩 Commits nos meus projetos
 
-<p align="center">
+<table align="center">
+  <tr>
+    <!-- ===== CountG ===== -->
+    <td align="center" width="50%" valign="top">
+      <a href="https://github.com/pedroRez/CountG">
+        <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=pedroRez&repo=CountG&theme=radical" />
+      </a><br/>
+      <img src="https://img.shields.io/github/commit-activity/m/pedroRez/CountG?label=commits%2Fm%C3%AAs&style=for-the-badge" />
+      <img src="https://img.shields.io/github/commit-activity/y/pedroRez/CountG?label=commits%2Fano&style=for-the-badge" />
+      <img src="https://img.shields.io/github/last-commit/pedroRez/CountG?style=for-the-badge" />
+    </td>
+  </tr>
+  <tr>
+       <td align="center" width="50%" valign="top">
+            <a href="https://github.com/pedroRez/GravadorDeTela">
+              <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=pedroRez&repo=GravadorDeTela&theme=radical" />
+            </a><br/>
+            <img src="https://img.shields.io/github/commit-activity/m/pedroRez/GravadorDeTela?label=commits%2Fm%C3%AAs&style=for-the-badge" />
+            <img src="https://img.shields.io/github/commit-activity/y/pedroRez/GravadorDeTela?label=commits%2Fano&style=for-the-badge" />
+            <img src="https://img.shields.io/github/last-commit/pedroRez/GravadorDeTela?style=for-the-badge" />
+          </td>
 
-  <!-- ===== CountG ===== -->
-  <a href="https://github.com/pedroRez/CountG">
-    <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=pedroRez&repo=CountG&theme=radical" />
-  </a>
-  <br/>
-  <img src="https://img.shields.io/github/commit-activity/m/pedroRez/CountG?label=commits%2Fm%C3%AAs&style=for-the-badge" />
-  <img src="https://img.shields.io/github/commit-activity/y/pedroRez/CountG?label=commits%2Fano&style=for-the-badge" />
-  <img src="https://img.shields.io/github/last-commit/pedroRez/CountG?style=for-the-badge" />
 
-  <br/><br/>
+</tr>
+   
+   
 
-  <!-- ===== GravadorDeTela ===== -->
-  <a href="https://github.com/pedroRez/GravadorDeTela">
-    <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=pedroRez&repo=GravadorDeTela&theme=radical" />
-  </a>
-  <br/>
-  <img src="https://img.shields.io/github/commit-activity/m/pedroRez/GravadorDeTela?label=commits%2Fm%C3%AAs&style=for-the-badge" />
-  <img src="https://img.shields.io/github/commit-activity/y/pedroRez/GravadorDeTela?label=commits%2Fano&style=for-the-badge" />
-  <img src="https://img.shields.io/github/last-commit/pedroRez/GravadorDeTela?style=for-the-badge" />
+  <!-- =====
+  <tr>
+    <td align="center" colspan="2" valign="top">
+      <a href="https://github.com/pedroRez/almoxarifado-erp">
+        <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=pedroRez&repo=almoxarifado-erp&theme=radical" />
+      </a><br/>
+      <img src="https://img.shields.io/github/commit-activity/m/pedroRez/almoxarifado-erp?label=commits%2Fm%C3%AAs&style=for-the-badge" />
+      <img src="https://img.shields.io/github/commit-activity/y/pedroRez/almoxarifado-erp?label=commits%2Fano&style=for-the-badge" />
+      <img src="https://img.shields.io/github/last-commit/pedroRez/almoxarifado-erp?style=for-the-badge" />
+    </td>
+  </tr>===== -->
+</table>
 
-  <br/><br/>
-
-  <!-- ===== almoxarifado-erp
-  <a href="https://github.com/pedroRez/almoxarifado-erp">
-    <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=pedroRez&repo=almoxarifado-erp&theme=radical" />
-  </a>
-  <br/>
-  <img src="https://img.shields.io/github/commit-activity/m/pedroRez/almoxarifado-erp?label=commits%2Fm%C3%AAs&style=for-the-badge" />
-  <img src="https://img.shields.io/github/commit-activity/y/pedroRez/almoxarifado-erp?label=commits%2Fano&style=for-the-badge" />
-  <img src="https://img.shields.io/github/last-commit/pedroRez/almoxarifado-erp?style=for-the-badge" />
- ===== -->
-</p>
 
 ---
 
