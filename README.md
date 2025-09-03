@@ -17,6 +17,27 @@ Considero-me autodidata, versátil e motivado a resolver problemas com tecnologi
 
 ---
 
+<div align="center">
+
+<!-- GitHub Stats -->
+<a href="https://github.com/pedroRez">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=pedroRez&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+</a>
+
+<!-- Top Languages -->
+<a href="https://github.com/pedroRez">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroRez&layout=compact&langs_count=8&theme=radical&hide_progress=false" />
+</a>
+
+</div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=pedroRez&theme=radical&date_format=j%20M%5B%20Y%5D" />
+</div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedroRez&theme=react-dark&area=true&hide_border=true" />
+</div>
+
+
 ## 🛠️ Techs & Tools
 
 ### Linguagens
