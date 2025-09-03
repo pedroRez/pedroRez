@@ -30,46 +30,6 @@ Autodidata, versátil e focado em resolver problemas com tecnologia.
 </div>
 
 ---
-
-## 🧩 Commits nos meus projetos
-
-<p align="center">
-
-  <!-- ===== CountG ===== -->
-  <a href="https://github.com/pedroRez/CountG">
-    <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=pedroRez&repo=CountG&theme=radical" />
-  </a>
-  <br/>
-  <img src="https://img.shields.io/github/commit-activity/m/pedroRez/CountG?label=commits%2Fm%C3%AAs&style=for-the-badge" />
-  <img src="https://img.shields.io/github/commit-activity/y/pedroRez/CountG?label=commits%2Fano&style=for-the-badge" />
-  <img src="https://img.shields.io/github/last-commit/pedroRez/CountG?style=for-the-badge" />
-
-  <br/><br/>
-
-  <!-- ===== GravadorDeTela ===== -->
-  <a href="https://github.com/pedroRez/GravadorDeTela">
-    <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=pedroRez&repo=GravadorDeTela&theme=radical" />
-  </a>
-  <br/>
-  <img src="https://img.shields.io/github/commit-activity/m/pedroRez/GravadorDeTela?label=commits%2Fm%C3%AAs&style=for-the-badge" />
-  <img src="https://img.shields.io/github/commit-activity/y/pedroRez/GravadorDeTela?label=commits%2Fano&style=for-the-badge" />
-  <img src="https://img.shields.io/github/last-commit/pedroRez/GravadorDeTela?style=for-the-badge" />
-
-  <br/><br/>
-
-  <!-- ===== almoxarifado-erp ===== -->
-  <a href="https://github.com/pedroRez/almoxarifado-erp">
-    <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=pedroRez&repo=almoxarifado-erp&theme=radical" />
-  </a>
-  <br/>
-  <img src="https://img.shields.io/github/commit-activity/m/pedroRez/almoxarifado-erp?label=commits%2Fm%C3%AAs&style=for-the-badge" />
-  <img src="https://img.shields.io/github/commit-activity/y/pedroRez/almoxarifado-erp?label=commits%2Fano&style=for-the-badge" />
-  <img src="https://img.shields.io/github/last-commit/pedroRez/almoxarifado-erp?style=for-the-badge" />
-
-</p>
-
----
-
 ## 🛠️ Techs & Tools
 
 ### Linguagens
@@ -101,6 +61,46 @@ Autodidata, versátil e focado em resolver problemas com tecnologia.
 
 ---
 
+## 🧩 Commits nos meus projetos
+
+<p align="center">
+
+  <!-- ===== CountG ===== -->
+  <a href="https://github.com/pedroRez/CountG">
+    <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=pedroRez&repo=CountG&theme=radical" />
+  </a>
+  <br/>
+  <img src="https://img.shields.io/github/commit-activity/m/pedroRez/CountG?label=commits%2Fm%C3%AAs&style=for-the-badge" />
+  <img src="https://img.shields.io/github/commit-activity/y/pedroRez/CountG?label=commits%2Fano&style=for-the-badge" />
+  <img src="https://img.shields.io/github/last-commit/pedroRez/CountG?style=for-the-badge" />
+
+  <br/><br/>
+
+  <!-- ===== GravadorDeTela ===== -->
+  <a href="https://github.com/pedroRez/GravadorDeTela">
+    <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=pedroRez&repo=GravadorDeTela&theme=radical" />
+  </a>
+  <br/>
+  <img src="https://img.shields.io/github/commit-activity/m/pedroRez/GravadorDeTela?label=commits%2Fm%C3%AAs&style=for-the-badge" />
+  <img src="https://img.shields.io/github/commit-activity/y/pedroRez/GravadorDeTela?label=commits%2Fano&style=for-the-badge" />
+  <img src="https://img.shields.io/github/last-commit/pedroRez/GravadorDeTela?style=for-the-badge" />
+
+  <br/><br/>
+
+  <!-- ===== almoxarifado-erp
+  <a href="https://github.com/pedroRez/almoxarifado-erp">
+    <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=pedroRez&repo=almoxarifado-erp&theme=radical" />
+  </a>
+  <br/>
+  <img src="https://img.shields.io/github/commit-activity/m/pedroRez/almoxarifado-erp?label=commits%2Fm%C3%AAs&style=for-the-badge" />
+  <img src="https://img.shields.io/github/commit-activity/y/pedroRez/almoxarifado-erp?label=commits%2Fano&style=for-the-badge" />
+  <img src="https://img.shields.io/github/last-commit/pedroRez/almoxarifado-erp?style=for-the-badge" />
+ ===== -->
+</p>
+
+---
+
+
 ## Contacts
 <p align="center">
   <a href="https://www.linkedin.com/in/pedro-rezende-82530135a" target="_blank">
@@ -110,9 +110,7 @@ Autodidata, versátil e focado em resolver problemas com tecnologia.
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <!-- Substitua SEU_USUARIO pelo seu @ do Instagram -->
-  <a href="https://instagram.com/SEU_USUARIO" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
+  
   <a href="https://wa.me/5531987957844" target="_blank">
     <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
