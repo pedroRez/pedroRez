@@ -49,7 +49,7 @@ Considero-me autodidata, versátil e motivado a resolver problemas com tecnologi
 ---
 
 ## 📫 Contato
-- [LinkedIn](linkedin.com/in/pedro-rezende-82530135a)  
+- [LinkedIn](linkedin.com//in//pedro-rezende-82530135a)  
 - [GitHub](https://github.com/pedroRez)  
 - 📧 **pedro.rezp3@gmail.com**
 
