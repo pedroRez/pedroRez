@@ -129,9 +129,7 @@ Autodidata, versátil e focado em resolver problemas com tecnologia.
   </a>
   <!-- Substitua SEU_USUARIO pelo seu @ do Instagram -->
   
-  <a href="https://wa.me/5531987957844" target="_blank">
-    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-  </a>
+
 </p>
 
 ---
