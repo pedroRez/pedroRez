@@ -1,11 +1,5 @@
-# 👋 Olá, eu sou Pedro Rezende Neto
+# 👋 Olá, eu sou Pedro Rezende
 
-## 👨‍💻 Sobre mim
-Sou desenvolvedor apaixonado por tecnologia, com experiência em **sistemas web, desktop e banco de dados**.  
-Atuei em empresas e projetos que envolvem desde **geoprocessamento e auditoria pública** até **sistemas corporativos e soluções em nuvem**.  
-Autodidata, versátil e focado em resolver problemas com tecnologia.
-
----
 
 ## 🚀 Projetos Pessoais
 - 📚 **Aplicativo multimídia** (livros, vídeos e fotos)
