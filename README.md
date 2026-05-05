@@ -95,28 +95,22 @@ Gosto de construir ferramentas que resolvem problemas reais: importadores de dad
 | Projeto | O que entrega | Stack |
 | --- | --- | --- |
 | [OpenDesk](https://github.com/pedroRez/OpenDesk) | Marketplace/MVP para aluguel de PCs remotos, com foco em sessão, host/cliente, relay, streaming próprio e coordenação de conexões. | TypeScript, Next.js, Fastify, Prisma, PostgreSQL, Rust, Tauri/Electron |
+| Xerife ERP | ERP em evolução para gestão de locação de máquinas, oficina, processos internos, dados operacionais e rotinas de back-office. | Web, banco de dados, integração, automação |
 | [ImportDataDB](https://github.com/pedroRez/ImportDataDB) | Aplicação desktop para importar planilhas Excel, mapear colunas e levar dados para tabelas de banco com mais controle. | Python, PySide6/Qt, PostgreSQL, Inno Setup |
 | [CountG](https://github.com/pedroRez/CountG) + [CountGFront](https://github.com/pedroRez/CountGFront) | Contagem e rastreamento de objetos/bovinos por imagem ou vídeo, com backend de IA, app mobile e [demo disponível](https://drive.google.com/file/d/1QOejW5SMHCNknMpC-f6mGNzqf4nHoud0/view?usp=drive_link). | FastAPI, YOLOv8, Python, React Native, Expo, Docker |
 | [NetworkMonitor](https://github.com/pedroRez/NetworkMonitor) | MVP para monitoramento de rede local com cadastro de dispositivos, métricas de tráfego e integração planejada via SNMP. | FastAPI, SQLAlchemy, PostgreSQL, React, Vite |
 | [ManipuladorFotos](https://github.com/pedroRez/ManipuladorFotos) | Aplicativo desktop para organizar fotos/vídeos, identificar duplicadas/semelhantes e revisar exclusões com segurança. | C#, .NET 8, WPF, MVVM |
 | [GravadorDeTela](https://github.com/pedroRez/GravadorDeTela) | Ferramenta de gravação de tela pensada para computadores modestos, usando FFmpeg e fluxo simples de captura. | C#, .NET Framework, FFmpeg |
 | App multimídia | Aplicativo para livros, vídeos e fotos, explorando experiência web/mobile e manipulação de mídia com React e Expo. | ReactJS, React Native, Expo |
-| ERP de locação e oficinas | Sistema em evolução para gestão de locação de máquinas, oficina, processos internos e dados operacionais. | Web, banco de dados, back-office |
 
-<div align="center">
-  <a href="https://github.com/pedroRez/OpenDesk">
-    <img height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=pedroRez&repo=OpenDesk&theme=transparent&hide_border=true" alt="OpenDesk" />
-  </a>
-  <a href="https://github.com/pedroRez/ImportDataDB">
-    <img height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=pedroRez&repo=ImportDataDB&theme=transparent&hide_border=true" alt="ImportDataDB" />
-  </a>
-  <a href="https://github.com/pedroRez/CountG">
-    <img height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=pedroRez&repo=CountG&theme=transparent&hide_border=true" alt="CountG" />
-  </a>
-  <a href="https://github.com/pedroRez/NetworkMonitor">
-    <img height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=pedroRez&repo=NetworkMonitor&theme=transparent&hide_border=true" alt="NetworkMonitor" />
-  </a>
-</div>
+### Painel rápido
+
+| Produto | Status | Por que é importante |
+| --- | --- | --- |
+| **OpenDesk** | Foco atual | Produto com backend, web, desktop, sessão remota, rede e streaming próprio. |
+| **Xerife ERP** | Foco atual | Sistema de gestão para locação, oficina, processos internos e controle operacional. |
+| **CountG** | Projeto IA/mobile | Une visão computacional, FastAPI, React Native, Expo e processamento de vídeo. |
+| **ImportDataDB** | Ferramenta desktop | Resolve fluxo real de importação, mapeamento e carga de dados em banco. |
 
 ---
 
@@ -139,12 +133,9 @@ Tenho trabalhado bastante na parte que fica entre interface, API, banco e infrae
 </div>
 
 <div align="center">
-  <a href="https://github.com/pedroRez">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=pedroRez&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats" />
-  </a>
-  <a href="https://github.com/pedroRez">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroRez&layout=compact&langs_count=8&theme=transparent&hide_border=true&hide=html,css" alt="Top languages" />
-  </a>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pedroRez&theme=github_dark" alt="Resumo de stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pedroRez&theme=github_dark" alt="Repositórios por linguagem" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pedroRez&theme=github_dark" alt="Commits por linguagem" />
   <a href="https://github.com/pedroRez">
     <img height="165" src="https://streak-stats.demolab.com?user=pedroRez&theme=transparent&hide_border=true&locale=pt_BR" alt="GitHub streak" />
   </a>
@@ -152,6 +143,7 @@ Tenho trabalhado bastante na parte que fica entre interface, API, banco e infrae
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedroRez&theme=github_dark" alt="Resumo do perfil GitHub" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pedroRez&theme=github_dark&utcOffset=-3" alt="Horários produtivos" />
 </div>
 
 <div align="center">
@@ -162,10 +154,10 @@ Tenho trabalhado bastante na parte que fica entre interface, API, banco e infrae
 
 ## Onde estou focando agora
 
-- Evoluir o **OpenDesk** como produto com backend, web, desktop e base de conexão própria.
-- Melhorar ferramentas desktop para **produtividade, mídia, importação e organização de dados**.
-- Aprofundar projetos com **redes, streaming, monitoramento e arquitetura distribuída**.
-- Transformar ideias práticas em sistemas usáveis, com documentação e empacotamento decentes.
+- Evoluir o **OpenDesk** como produto com backend, web, desktop, sessão remota e base de conexão própria.
+- Desenvolver o **Xerife ERP** para gestão de locação, oficina, processos internos e dados operacionais.
+- Aprofundar arquitetura de **redes, streaming, monitoramento, banco de dados e integrações**.
+- Transformar ideias práticas em sistemas usáveis, documentados e fáceis de operar.
 
 ---
 
