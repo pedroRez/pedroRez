@@ -128,18 +128,25 @@ Tenho trabalhado bastante na parte que fica entre interface, API, banco e infrae
 
 ## GitHub em números
 
+> Commits privados entram nos gráficos de contribuição como atividade anonimizada quando a opção está habilitada no GitHub. Os repositórios privados continuam sem link, sem nome exposto e sem código público.
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=pedroRez&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
 </div>
 
+### Contribuições
+
 <div align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pedroRez&theme=github_dark" alt="Resumo de stats" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pedroRez&theme=github_dark" alt="Repositórios por linguagem" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pedroRez&theme=github_dark" alt="Commits por linguagem" />
   <a href="https://github.com/pedroRez">
-    <img height="165" src="https://streak-stats.demolab.com?user=pedroRez&theme=transparent&hide_border=true&locale=pt_BR" alt="GitHub streak" />
+    <img height="170" src="https://streak-stats.demolab.com?user=pedroRez&theme=transparent&hide_border=true&locale=pt_BR" alt="Sequência de contribuições GitHub, incluindo privadas anonimizadas quando habilitadas" />
   </a>
 </div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedroRez&theme=github-compact&hide_border=true&area=true" alt="Gráfico de contribuições GitHub, incluindo privadas anonimizadas quando habilitadas" />
+</div>
+
+### Resumo público
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedroRez&theme=github_dark" alt="Resumo do perfil GitHub" />
@@ -147,7 +154,9 @@ Tenho trabalhado bastante na parte que fica entre interface, API, banco e infrae
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedroRez&theme=github-compact&hide_border=true&area=true" alt="Contribution graph" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pedroRez&theme=github_dark" alt="Resumo público de stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pedroRez&theme=github_dark" alt="Repositórios públicos por linguagem" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pedroRez&theme=github_dark" alt="Commits públicos por linguagem" />
 </div>
 
 ---
