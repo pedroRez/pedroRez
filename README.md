@@ -128,7 +128,7 @@ Tenho trabalhado bastante na parte que fica entre interface, API, banco e infrae
 
 ## GitHub em números
 
-> Commits privados entram nos gráficos de contribuição como atividade anonimizada quando a opção está habilitada no GitHub. Os repositórios privados continuam sem link, sem nome exposto e sem código público.
+> Commits privados aparecem no calendário oficial do GitHub como atividade anonimizada quando a opção está habilitada. Os repositórios privados continuam sem link, sem nome exposto e sem código público.
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=pedroRez&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
@@ -137,27 +137,39 @@ Tenho trabalhado bastante na parte que fica entre interface, API, banco e infrae
 ### Contribuições
 
 <div align="center">
-  <a href="https://github.com/pedroRez">
-    <img height="170" src="https://streak-stats.demolab.com?user=pedroRez&theme=transparent&hide_border=true&locale=pt_BR" alt="Sequência de contribuições GitHub, incluindo privadas anonimizadas quando habilitadas" />
+  <a href="https://github.com/pedroRez?tab=overview">
+    <img alt="Ver calendário oficial no GitHub" src="https://img.shields.io/badge/Ver%20calend%C3%A1rio%20oficial-GitHub%20Contributions-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedroRez&theme=github-compact&hide_border=true&area=true" alt="Gráfico de contribuições GitHub, incluindo privadas anonimizadas quando habilitadas" />
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=pedroRez&theme=github-compact&hide_border=true&area=true" alt="Gráfico de contribuições GitHub" />
 </div>
 
 ### Resumo público
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedroRez&theme=github_dark" alt="Resumo do perfil GitHub" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pedroRez&theme=github_dark&utcOffset=-3" alt="Horários produtivos" />
+  <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedroRez&theme=github_dark" alt="Resumo do perfil GitHub" />
 </div>
 
-<div align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pedroRez&theme=github_dark" alt="Resumo público de stats" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pedroRez&theme=github_dark" alt="Repositórios públicos por linguagem" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pedroRez&theme=github_dark" alt="Commits públicos por linguagem" />
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img width="390" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pedroRez&theme=github_dark" alt="Resumo público de stats" />
+    </td>
+    <td align="center">
+      <img width="390" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pedroRez&theme=github_dark&utcOffset=-3" alt="Horários produtivos" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img width="390" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pedroRez&theme=github_dark" alt="Repositórios públicos por linguagem" />
+    </td>
+    <td align="center">
+      <img width="390" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pedroRez&theme=github_dark" alt="Commits públicos por linguagem" />
+    </td>
+  </tr>
+</table>
 
 ---
 
