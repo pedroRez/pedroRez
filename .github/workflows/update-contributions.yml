@@ -1,0 +1,37 @@
+name: Update profile contributions
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 */6 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-contributions:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Generate contribution card
+        env:
+          GITHUB_LOGIN: pedroRez
+          # Use a Pedro Rezende PAT in this secret to include private contributions
+          # without exposing private repository names or code.
+          PROFILE_STATS_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN }}
+        run: node scripts/update-contributions.mjs
+
+      - name: Commit updated contribution card
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/contributions.svg
+          git diff --cached --quiet || git commit -m "Atualiza contador de contribuicoes"
+          git push

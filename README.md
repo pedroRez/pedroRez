@@ -137,6 +137,10 @@ Tenho trabalhado bastante na parte que fica entre interface, API, banco e infrae
 ### Contribuições
 
 <div align="center">
+  <img width="96%" src="./assets/contributions.svg" alt="Total anual automatizado de contribuições no GitHub" />
+</div>
+
+<div align="center">
   <a href="https://github.com/pedroRez?tab=overview">
     <img alt="Ver calendário oficial no GitHub" src="https://img.shields.io/badge/Ver%20calend%C3%A1rio%20oficial-GitHub%20Contributions-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>

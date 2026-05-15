@@ -1,0 +1,25 @@
+<svg width="900" height="180" viewBox="0 0 900 180" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">1.248 contribuições em 2026</title>
+  <desc id="desc">Total anual de contribuições do GitHub para pedroRez, atualizado automaticamente.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="900" y2="180" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0f172a"/>
+      <stop offset="0.52" stop-color="#172554"/>
+      <stop offset="1" stop-color="#0e7490"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(735 24) rotate(129.806) scale(178 230)">
+      <stop stop-color="#38bdf8" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="900" height="180" rx="22" fill="url(#bg)"/>
+  <rect width="900" height="180" rx="22" fill="url(#glow)"/>
+  <rect x="24" y="24" width="852" height="132" rx="18" fill="white" fill-opacity="0.08" stroke="white" stroke-opacity="0.16"/>
+  <circle cx="56" cy="54" r="7" fill="#fb7185"/>
+  <circle cx="79" cy="54" r="7" fill="#fbbf24"/>
+  <circle cx="102" cy="54" r="7" fill="#34d399"/>
+  <text x="48" y="102" fill="#e0f2fe" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="2">CONTRIBUIÇÕES EM 2026</text>
+  <text x="48" y="143" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600">inclui privadas anonimizadas sem expor repositórios privados</text>
+  <text x="840" y="106" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="800" text-anchor="end">1.248</text>
+  <text x="840" y="137" fill="#bae6fd" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" text-anchor="end">valor inicial informado</text>
+</svg>
