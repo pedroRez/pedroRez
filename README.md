@@ -128,13 +128,13 @@ Tenho trabalhado bastante na parte que fica entre interface, API, banco e infrae
 
 ## GitHub em números
 
-> Commits privados aparecem no calendário oficial do GitHub como atividade anonimizada quando a opção está habilitada. Os repositórios privados continuam sem link, sem nome exposto e sem código público.
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=pedroRez&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
 </div>
 
-### Contribuições
+### Resumo unificado
+
+> Os cards de resumo abaixo são gerados pela mesma rotina para que commits, horários e linguagens usem uma única base de contagem. Quando o token do workflow tem acesso aos repositórios privados, a atividade entra de forma agregada, sem expor nomes, links ou código dos repositórios.
 
 <div align="center">
   <img width="96%" src="./assets/contributions.svg" alt="Total anual automatizado de contribuições no GitHub" />
@@ -150,27 +150,25 @@ Tenho trabalhado bastante na parte que fica entre interface, API, banco e infrae
   <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=pedroRez&theme=github-compact&hide_border=true&area=true" alt="Gráfico de contribuições GitHub" />
 </div>
 
-### Resumo público
-
 <div align="center">
-  <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedroRez&theme=github_dark" alt="Resumo do perfil GitHub" />
+  <img width="96%" src="profile-summary-card-output/github_dark/0-profile-details.svg" alt="Resumo unificado do perfil GitHub" />
 </div>
 
 <table align="center">
   <tr>
     <td align="center">
-      <img width="390" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pedroRez&theme=github_dark" alt="Resumo público de stats" />
+      <img width="390" src="profile-summary-card-output/github_dark/3-stats.svg" alt="Stats GitHub com contagem unificada" />
     </td>
     <td align="center">
-      <img width="390" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pedroRez&theme=github_dark&utcOffset=-3" alt="Horários produtivos" />
+      <img width="390" src="profile-summary-card-output/github_dark/4-productive-time.svg" alt="Horários produtivos com base unificada" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img width="390" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pedroRez&theme=github_dark" alt="Repositórios públicos por linguagem" />
+      <img width="390" src="profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repositórios por linguagem com base unificada" />
     </td>
     <td align="center">
-      <img width="390" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pedroRez&theme=github_dark" alt="Commits públicos por linguagem" />
+      <img width="390" src="profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Commits por linguagem com contagem unificada" />
     </td>
   </tr>
 </table>
