@@ -147,14 +147,7 @@ Tenho trabalhado bastante na parte que fica entre interface, API, banco e infrae
 </div>
 
 <table align="center">
-  <tr>
-    <td align="center">
-      <img width="390" src="profile-summary-card-output/github_dark/3-stats.svg" alt="Stats GitHub com contagem unificada" />
-    </td>
-    <td align="center">
-      <img width="390" src="profile-summary-card-output/github_dark/4-productive-time.svg" alt="Horários produtivos com base unificada" />
-    </td>
-  </tr>
+  
   <tr>
     <td align="center">
       <img width="390" src="profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repositórios por linguagem com base unificada" />
